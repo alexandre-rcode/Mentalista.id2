@@ -1,0 +1,67 @@
+body{
+
+    height: 100vh;
+    background-color: black;
+    background:url(imagens/Fundo.img.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  margin: 0 0 5px;
+  margin-top: 80px;
+  font-size: 40px;
+}
+
+.page-subtitle {
+  text-align: center;
+  color: white;
+  margin-top: 10px;
+  font-size: 30px;
+}
+
+.Pergunta{
+    text-align: center;
+    color: white;
+    font-size: 24px;
+}
+.Pergunta{
+    color: white; text-shadow: black 0.1em 0.1em 0.2em
+}
+
+
+
+
+input {
+  margin: 4px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+
+button {
+  color: rgb(0, 0, 0);
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+
+.resultado {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  margin-top: 16px;
+}
+
